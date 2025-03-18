@@ -1,5 +1,8 @@
 ---
-title: Welcome to my blog
+title: M AL-SOURI
+author: M AL-SOURI
+theme: jekyll-theme-slate
+description: Github Website
 ---
 
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
