@@ -5,7 +5,7 @@ url: https://gh.alsouri.co.uk
 author:
   name: M AL-SOURI
   email: msalsouri@hotmail.com
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
 social:
