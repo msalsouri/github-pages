@@ -1,5 +1,14 @@
 # filepath: /home/msalsouri/Projects/github-pages/_config.yml
 title: M AL-SOURI
-author: M AL-SOURI
-theme: jekyll-theme-slate
-description: Github Website
+description: Personal blog and portfolio
+url: https://gh.alsouri.co.uk
+author:
+  name: M AL-SOURI
+  email: msalsouri@hotmail.com
+theme: minima
+plugins:
+  - jekyll-seo-tag
+social:
+  twitter: malsouri1
+  github: msalsouri
+  linkedin: msalsouri
